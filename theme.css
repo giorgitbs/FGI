@@ -1,0 +1,249 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    background-color: #6990B8;
+    width:100%;
+    height: auto;
+}
+ ul#main-menu li {
+    float: left;
+    list-style: none outside none;
+     margin-bottom: -3px;
+}
+
+ul#main-menu-2 li {
+    float: left;
+    list-style: none outside none;
+     margin-bottom: -3px;
+}
+
+ul#main-menu li a {
+    text-decoration: none;
+}
+.main-menu{
+    margin: 0;
+    padding: 0;
+}
+
+ul#main-menu {
+    background-color: #6990B8;
+    clear: both;
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    width:100%;
+    height: auto;
+}
+ul#main-menu-2 {
+    background-color: #6990B8;
+    clear: both;
+    display: inline-block;
+    float: left;
+    margin: 0;
+    padding: 0;
+    width:100%;
+    height: auto;
+}
+ ul#main-menu li#home  {
+  width: 26.6%;
+}
+ ul#main-menu li#about {
+ width: 35.5%;
+}
+
+
+ul#main-menu li#fgi-live{
+ width: 37%;
+}
+.ui-body-c, .ui-overlay-c {
+   background: none;
+}
+ul#main-menu-2 li#capacities {
+ width: 39%;
+}
+ul#main-menu-2 li#products { 
+ width: 28.5%;
+}
+ul#main-menu-2 li#contact {
+width: 32.5%;
+}
+
+.contact-info {
+    background-color: #FFFFFF;
+    background-image: url("images/top-bg.png");
+    background-repeat: repeat-x;
+    border: medium none;
+    clear: both;
+    margin: 0 0 -4px;
+    padding: 0;
+}
+.header-tile img {
+
+}
+.contact-info img {
+    padding-left: 4px;
+}
+
+.home-content {
+    background-repeat: no-repeat;
+    clear: both;
+    padding-top: 10px;
+}
+
+
+
+.back-home {
+    right: 19px;
+    position: absolute;
+    top: 14px;
+    width: 29%;
+}
+
+.about-top {
+possition: relative;
+width: 100%;
+
+}
+
+.about-content {
+    background-image: url("images/content-top.png");
+    background-repeat: no-repeat;
+    clear: both;
+    margin: 0 0 -4px;
+    padding: 10px 0 0;
+}
+.about-top {
+    background-image: url("images/about-top-bg.png");
+    background-repeat: repeat-x;
+    margin: 0 0 -4px;
+    padding: 0;
+}
+.about-top img{
+    margin: 0;
+    padding: 0;
+}
+.about-content img{
+    margin: 0;
+    padding: 0;
+}
+.about-content-bottom{
+    margin: 0;
+    padding: 0;
+}
+.about-content-bottom img{
+    margin: 0;
+    padding: 0;
+}
+.about-title {
+    margin-top: 17px;
+}
+.content p {
+    font-family: "Helvetica Neue";
+    font-size: 16px;
+}
+
+div.img-float {
+    background-color: #F3F3F3;
+    float: left;
+    margin-top: 9px;
+    width: 100%;
+}
+.float-content {
+   
+}
+.float-content img {
+    clear: right;
+    float: right;
+}
+body, body p {
+    font-family: "Helvetica Neue";
+    font-size: 16px;
+    color:#767C7F;
+}
+.clear{
+clear: both;
+}
+.cap-header img {
+    margin-top: 3px;
+}
+.float-content img.tufclas {
+    float: left;
+}
+strong.tufglas {
+    display: block;
+    margin-top: 12px;
+}
+ul.list_font{
+	color: #003A63;
+    margin-left: 18px;
+    margin-top: 12px
+}
+ul.list_font li{
+}
+.safety-header img{
+
+}
+img.smart-logo {
+    margin-top: 5px;
+}
+img.smart-img {
+    float: right;
+    margin-left: 6px;
+    margin-top: 5px;
+}
+img.thermo-logo {
+    margin-top: 5px;
+}
+img.thermo-img {
+    clear: right;
+    float: right;
+    margin-left: 6px;
+    margin-top: 5px;
+}
+.enerylogos {
+    float: left;
+    width: 45%;
+}
+p.tenyears {
+    color: #003A63;
+    font-weight: bold;
+    margin-bottom: 14px;
+    margin-top: 13px;
+}
+
+div.fgi {
+    float: left;
+    margin-right: 19px;
+    width: 47%;
+}
+div.fgi-alt {
+    float: right;
+    width: 47%;
+}
+
+.contact-content span {
+    color: #003A63;
+    display: block;
+    font-size: 12px;
+    line-height: 25px;
+}
+.contact-name {
+    font-family: BankGothicLtBTLight,Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+
+}
+.contact-content a{
+    color: #003A63 !important;;
+    font-size: 12px;
+}
+
+#page_live .ui-content {
+    min-height: 155px;
+}
+span.click-link{
+ display: block;
+}
