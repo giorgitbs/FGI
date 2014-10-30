@@ -15,5 +15,8 @@ Henry Tran
 </author>
 
 <icon src="icon.png" />
-<gap:plugin name="org.apache.cordova.inappbrowser" version="0.5.2" />
+<feature name="InAppBrowser">
+    <param name="android-package" value="org.apache.cordova.inappbrowser.InAppBrowser" />
+	<param name="ios-package" value="CDVInAppBrowser" />
+</feature>
 </widget>
