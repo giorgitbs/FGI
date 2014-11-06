@@ -247,3 +247,7 @@ div.fgi-alt {
 span.click-link{
  display: block;
 }
+
+.ui-page {
+    -webkit-backface-visibility: hidden;
+}
